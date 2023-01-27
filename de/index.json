@@ -1,0 +1,79 @@
+{
+    "languageTag": "de",
+    "pageTitle": "SusDoX Login - Radiologische Bilder und Befunde sicher online einsehen",
+    "pageLocale": "de_DE",
+    "pageURL": "https://bilder-befunde.at/de",
+    "pageDescription": "SusDoX übernimmt die Übermittlung von Dokumenten im Gesundheitswesen, welche die Dokumentenverfügbarkeit in der Behandlung sichert. Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde online einsehen.",
+    "pageImageURL": "https://bilder-befunde.at/img/icon.png",
+    "pageType": "website",
+    "sharedContent": {
+        "contentSloganText": "Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde sicher online einsehen.",
+        "doctorSloganText": "Mit SusDoX Webview können Sie jederzeit Bilder und Befunde sicher online einsehen.",
+        "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
+    },
+    "content": {
+        "headerSubtitle": "Bilder und Befunde Online",
+        "deTagLink": '<a disabled>DE</a>',
+        "enTagLink": '<a href="../en/">EN</a>',
+
+        "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
+        "doctorsLoginButtonText": "Zugang für Ärzte & Institute",
+        "patientsLoginButtonText":"Zugang für Patienten",
+        "supportButtonText": "Support",
+    
+        "doctorloginHeadingText": "Login als Arzt",
+        "doctorloginVPNLabelText": "Vertragspartnernummer",
+        "doctorloginUsernameLabelText": "Username",
+        "doctorloginPasswordLabelText": "Passwort",
+        "doctorloginSaveLoginLabelText": "Zugang speichern",
+        "doctorloginSubmitButtonText": "Anmelden",
+
+        "doctormiscHeadingText": "Login als Arzt mit Patientenzugang",
+        "doctormiscHintText": "Als Arzt habe ich noch keine Zugangsdaten erhalten und möchte mit dem <b>Code</b> des Patienten die Untersuchungen einsehen.",
+        "doctormiscContinueText": "Anmelden",
+        "doctormiscNoLoginDataText": "Als Arzt habe ich noch keine Zugangsdaten erhalten oder derzeit nicht parat?",
+        "doctormiscGetLoginDataLinkText": "Jetzt Anfordern!",
+
+        "codeLoginHeadingText": "Zugang mit Geburtsdatum und Code",
+        "codeLoginHintText": "Sie haben bei Ihrer Untersuchung einen Zugangscode erhalten:",
+        "codeLoginDateLabelText": "Geb.Datum",
+        "codeLoginCodeLabelText": "Code",
+        "codeLoginSubmitButtonText": "Anmelden",
+        "codeLoginNoCodeQuestionText": "Code nicht erhalten oder vergessen?",
+        "codeLoginNoCodeHintText": "Sie haben bei Ihrer Untersuchung Ihre Handy-Nummer angegeben? Dann können Sie Ihren persönlichen Login-Code jetzt mit Ihrer Sozialversicherungsnummer anfordern.<br> Sie erhalten diesen per SMS auf Ihr Handy.",
+        "codeLoginRenewCodeSubmitButtonText": "Code anfordern",
+        "codeLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "codeLogin401ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "codeLoginRenewErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+
+        "compatibilityLoginHeadingText": "Zugang mit PIN-Code und SVN",
+        "compatibilityLoginHintText": "Ihre Untersuchung ist länger her und Sie haben statt des Login-Codes einen PIN-Code oder einen AUTH-Code erhalten. Hier können Sie sich wie gewohnt einloggen.",
+        "compatibilityLoginSwitchButtonText": "Zum Login",
+        "copmatibilityLoginNoATHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
+
+        "svnLoginHeadingText": "Zugang mit SVN + PIN-CODE",
+        "svnLoginHintText": "Sie haben eine Sozialversicherungsnummer und einen PIN-Code bei Ihrer Untersuchung erhalten",
+        "svnLoginSVNLabelText": "SVN + Geb.Datum",
+        "svnLoginPinLabelText": "PIN-Code",
+        "svnLoginSubmitButtonText": "Anmelden",
+        "svnLoginNoPinQuestionText": "PIN-Code nicht erhalten oder vergessen?",
+        "svnLoginNoPinHintText": "Sie haben bei Ihrer Untersuchung Ihre Handy-Nummer angegeben? Dann können Sie Ihren persönlichen PIN-Code jetzt mit Ihrer Sozialversicherungsnummer anfordern.<br> Sie erhalten diesen per SMS auf Ihr Handy.",
+        "svnLoginRenewPinSubmitButtonText": "Code anfordern",
+        "svnLogin404ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "svnLogin401ErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+        "pinRenewErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+
+
+        "nosvnLoginHeadingText": "Zugang ohne österreichischer SVN <br>(Sozial Versicherungs Nummer)",
+        "nosvnLoginHintText": "Sie haben keine SVN (keine e-card). Sie haben bei Ihrer Untersuchung einen AUTH-Code erhalten",
+        "nosvnLoginBirthdayLabelText": "Geburtsdatum",
+        "nosvnLoginAuthcodeLabelText": "AUTH-Code",
+        "nosvnLoginSubmitButtonText": "Anmelden",
+        "nosvnLoginNoAuthcodeHintText": "Ohne österreichische Sozialversichungsnummer (e card) können Sie keinen Code per SMS anfordern.<br><br>Bitte wenden Sie sich an Ihren Radiologen/Institut.",
+        "nosvnLoginErrorText":"Mit den eingegebenen Daten ist keine Anmeldung möglich!<br>Bitte überprüfen Sie Ihre Eingaben oder versuchen Sie es später erneut!",
+
+        "agbHintText": 'Mit Klick auf ANMELDEN akzeptiere ich die <a href="https://sustsol.com/agb" target="_blank">AGB</a> und die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
+
+    }
+}

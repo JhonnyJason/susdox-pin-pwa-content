@@ -1,0 +1,42 @@
+{
+    "languageTag": "en",
+    "pageTitle": "SusDoX Support - Explanations and access to support for the SusDoX system",
+    "pageLocale": "en_US",
+    "pageURL": "https://bilder-befunde.at/en/support.html",
+    "pageDescription": "Problems or ambiguities about the SusDoX system? Here are details and access to support.",
+    "pageImageURL": "https://bilder-befunde.at/img/icon.png",
+    "pageType": "website",
+    "sharedContent": {
+        "contentSloganText": "With SusDoX Webview you can view your images and reports online at any time.",
+        "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Dataprotection</a> | <a href="https://sustsol.com/agb" target="_blank">Conditions</a>  | <a href="support.html" target="_blank">Support</a> '
+    },
+    "content": {
+        "headerSubtitle": "Support",
+        "deTagLink": '<a href="../de/support.html">DE</a>',
+        "enTagLink": '<a disabled >EN</a>',
+
+        "doctorregistrationButtonText": "Registration for Doctors",
+        "patientregistrationButtonText": "Registration for Patients",
+
+        "registrationHeadingText": "Register here",
+        "registrationTitleLableText": "Title:",
+        "registrationFirstnameLableText": "Firstname*:",
+        "registrationLastnameLableText": "Lastname*:",
+        "registrationAddressLableText": "Address*:",
+        "registrationPLZLableText": "Zip Code Location*:",
+        "registrationBirthdayLableText": "Birthday*:",
+        "registrationEmailLableText": "Email*:",
+        "registrationContactEmailLableText": "Please contact me by email!",
+        "registrationFaxLableText": "Fax:",
+        "registrationContactFaxLableText":"Please send my credentials by fax!",
+        "registrationPhoneLableText": "Telephone:",
+        "registrationContactPhoneLableText": "Please contact me on my phone!",
+        "registrationOrganizationLableText": "Name of Institute/Radiologist",
+        "registrationMessageLableText": "Message",
+        "registrationSubmitButtonText": "Register",
+
+
+        "agbHintText": 'By clicking REGISTER I accept the <a href="https://sustsol.com/agb" target="_blank">Conditions</a> and the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> of the SustSol GmbH!'
+    }
+}

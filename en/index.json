@@ -1,0 +1,61 @@
+{
+    "languageTag": "en",
+    "pageTitle": "SusDoX Login - View radiological images and reports securely online",
+    "pageLocale": "en_US",
+    "pageURL": "https://bilder-befunde.at/en",
+    "pageDescription": "SusDoX takes manages the transmission of documents in the healthcare sector, which ensures the availability of documents during treatment. With SusDoX Webview you can view your images and reports online at any time.",
+    "pageImageURL": "https://bilder-befunde.at/img/icon.png",
+    "pageType": "website",
+    "sharedContent": {
+        "contentSloganText": "With SusDoX Webview you can view your images and reports online at any time.",
+        "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Dataprotection</a> | <a href="https://sustsol.com/agb" target="_blank">Conditions</a>  | <a href="support.html" target="_blank">Support</a> '
+    },
+    "content": {
+        "headerSubtitle": "Bilder und Befunde Online",
+        "deTagLink": '<a href="../de/">DE</a>',
+        "enTagLink": '<a disabled >EN</a>',
+
+        "contentTitleText": "Find your images and reports here",
+        "doctorsLoginButtonText": "Access for Doctors and Hospitals",
+        "patientsLoginButtonText":"Access for Patientes",
+        "supportButtonText": "Support",
+    
+        "doctorloginHeadingText": "Login as Doctor",
+        "doctorloginVPNLabelText": "Vertragspartnernummer",
+        "doctorloginUsernameLabelText": "Username",
+        "doctorloginPasswordLabelText": "Password",
+        "doctorloginSaveLoginLabelText": "Remember me",
+        "doctorloginSubmitButtonText": "Login",
+
+        "doctormiscHeadingText": "Login as Docter using Patients Login",
+        "doctormiscHintText": "As a doctor, I do not yet have credentials (username and password) and would like to view the examinations with a <b>PIN/AUTH-CODE</b> from the patient.",
+        "doctormiscContinueText": "Login",
+        "doctormiscNoLoginDataText": "As a doctor, I have not yet received any credentials or do not have it at hand at the moment?",
+        "doctormiscGetLoginDataLinkText": "Request them now!",
+    
+        "svnLoginHeadingText": "Access via SVN + PIN-CODE",
+        "svnLoginHintText": "You have an Austrian social security number and received a PIN code at your investigation",
+        "svnLoginSVNLabelText": "SVN + Geb.Datum",
+        "svnLoginPinLabelText": "PIN-Code",
+        "svnLoginSubmitButtonText": "Login",
+        "svnLoginNoPinQuestionText": "No PIN-Code received or forgot it?",
+        "svnLoginNoPinHintText": "Did you give your cell phone number during your examination? Then you can now request your personal PIN code with your social security number.<br> You will receive this via SMS on your mobile phone.",
+        "svnLoginRenewPinSubmitButtonText": "Request PIN",
+        "svnLogin404ErrorText":"The provided credentials donot allow to proceed!<br>Please check your credentials or try again later!",
+        "svnLogin401ErrorText":"The provided credentials donot allow to proceed!<br>Please check your credentials or try again later!",
+        "pinRenewErrorText":"The provided credentials donot allow to proceed!<br>Please check your credentials or try again later!",
+
+        "nosvnLoginHeadingText": "Access without Austrian SVN <br>(social insurance number)",
+        "nosvnLoginHintText": "You have no SVN (no e-card). You received an AUTH code during your examination",
+        "nosvnLoginBirthdayLabelText": "Birthday",
+        "nosvnLoginAuthcodeLabelText": "AUTH-Code",
+        "nosvnLoginSubmitButtonText": "Login",
+        "nosvnLoginNoAuthcodeHintText": "You cannot request a code via SMS without an Austrian social security number (e card).<br><br>Please contact your radiologist/institute.",
+        "nosvnLoginErrorText":"The provided credentials donot allow to proceed!<br>Please check your credentials or try again later!",
+
+
+        "agbHintText": 'By clicking Login I accept the <a href="https://sustsol.com/agb" target="_blank">Conditions</a> and the <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Terms of Use</a> of the SustSol GmbH!'
+
+    }
+}

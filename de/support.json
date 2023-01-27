@@ -1,0 +1,43 @@
+{
+    "languageTag": "de",
+    "pageTitle": "SusDoX Support - Erklärungen und Zugang zum Support für das SusDox System",
+    "pageLocale": "de_DE",
+    "pageURL": "https://bilder-befunde.at/de/support.html",
+    "pageDescription": "Probleme oder Unklarheiten zum SusDoX System? Hier gibt es Details und Zugang zum Support.",
+    "pageImageURL": "https://bilder-befunde.at/img/icon.png",
+    "pageType": "website",
+    "sharedContent": {
+        "contentSloganText": "Mit SusDoX Webview können Sie jederzeit Ihre Bilder und Befunde sicher online einsehen.",
+        "doctorSloganText": "Mit SusDoX Webview können Sie jederzeit Bilder und Befunde sicher online einsehen.",
+        "footerText": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
+        "footerLinks": '<a href="https://www.sustsol.com/impressum/" target="_blank">Impressum</a> | <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> | <a href="https://www.sustsol.com/datenschutz" target="_blank">Datenschutz</a> | <a href="https://sustsol.com/agb" target="_blank">AGB</a>  | <a href="support.html" target="_blank">Support</a> '
+    },
+    "content": {
+        "headerSubtitle": "Support",
+        "deTagLink": '<a disabled>DE</a>',
+        "enTagLink": '<a href="../en/support.html">EN</a>',
+
+        "doctorregistrationButtonText": "Registrierung für Ärzte",
+        "patientregistrationButtonText": "Registrierung für Patienten",
+
+        "registrationHeadingText": "Hier Registrieren",
+        "registrationTitleLableText": "Titel:",
+        "registrationFirstnameLableText": "Name*:",
+        "registrationLastnameLableText": "Nachname*:",
+        "registrationAddressLableText": "Adresse*:",
+        "registrationPLZLableText": "PLZ Ort*:",
+        "registrationBirthdayLableText": "Geburtsdatum*:",
+        "registrationEmailLableText": "E-Mail*:",
+        "registrationContactEmailLableText": "Ich bitte eine Antwort per E-Mail!",
+        "registrationFaxLableText": "Fax:",
+        "registrationContactFaxLableText":"Ich bitte um meine Zugangsdaten per Fax!",
+        "registrationPhoneLableText": "Telefon:",
+        "registrationContactPhoneLableText": "Ich bitte um einen Rückruf!",
+        "registrationOrganizationLableText": "Name des Institutes/Radiologen",
+        "registrationMessageLableText": "Nachricht",
+        "registrationSubmitButtonText": "Registrieren",
+
+
+        "agbHintText": 'Mit Klick auf REGISTRIEREN akzeptiere ich die <a href="https://sustsol.com/agb" target="_blank">AGB</a> und die <a href="https://www.sustsol.com/nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a> der SustSol GmbH!'
+    }
+}
