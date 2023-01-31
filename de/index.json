@@ -14,7 +14,7 @@
         "addCodeButtonText": "Code hinzufügen",
         "loginButtonText": "Abschicken",
         "loginBirthdayLabel": "Geb. Datum",
-        "loginCodeLabel": "Code"
-
+        "loginCodeLabel": "Code",
+        "showCodeButtonText": "Code anzeigen"
     }
 }
