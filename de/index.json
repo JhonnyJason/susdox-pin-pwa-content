@@ -15,6 +15,9 @@
         "loginButtonText": "Abschicken",
         "loginBirthdayLabel": "Geb. Datum",
         "loginCodeLabel": "Code",
-        "showCodeButtonText": "Code anzeigen"
+        "showCodeButtonText": "Code anzeigen",
+        
+        "menuMoreInfoLabel": "Mehr Info",
+        "menuLogoutLabel": "Abmelden"
     }
 }

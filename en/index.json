@@ -15,6 +15,9 @@
         "loginButtonText": "Login",
         "loginBirthdayLabel": "Date of Birth",
         "loginCodeLabel": "Code",
-        "showCodeButtonText": "Show Code"
+        "showCodeButtonText": "Show Code",
+
+        "menuMoreInfoLabel": "More Info",
+        "menuLogoutLabel": "Logout"
     }
 }
