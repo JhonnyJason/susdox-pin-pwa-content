@@ -18,6 +18,11 @@
         "showCodeButtonText": "Show Code",
 
         "menuMoreInfoLabel": "More Info",
-        "menuLogoutLabel": "Logout"
-    }
+        "menuLogoutLabel": "Logout",
+ 
+        "useractionLogoutTitle": "Attention",
+        "useractionLogoutMessage": "Please confirm your logout. The PIN will be deleted from this device.",
+        "useractionAcceptButtonText": "Yes",
+        "useractionRejectButtonText": "No"
+   }
 }

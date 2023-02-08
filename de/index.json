@@ -18,6 +18,12 @@
         "showCodeButtonText": "Code anzeigen",
         
         "menuMoreInfoLabel": "Mehr Info",
-        "menuLogoutLabel": "Abmelden"
+        "menuLogoutLabel": "Abmelden",
+
+        "useractionLogoutTitle": "Achtung",
+        "useractionLogoutMessage": "Bitte bestätigen Sie den Logout. Der PIN wird dadurch von diesem Gerät gelöscht.",
+        "useractionAcceptButtonText": "Ja",
+        "useractionRejectButtonText": "Nein"
+
     }
 }
