@@ -23,7 +23,10 @@
         "useractionLogoutTitle": "Achtung",
         "useractionLogoutMessage": "Bitte bestätigen Sie den Logout. Der PIN wird dadurch von diesem Gerät gelöscht.",
         "useractionAcceptButtonText": "Ja",
-        "useractionRejectButtonText": "Nein"
+        "useractionRejectButtonText": "Nein",
+
+        "networkErrorFeedback": "Ein Netzwerkproblem ist aufgetreten.",
+        "inputErrorFeedback": "Bitte überprüfen Sie Ihre Eingaben."
 
     }
 }
