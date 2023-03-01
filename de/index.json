@@ -25,6 +25,7 @@
         "useractionAcceptButtonText": "Ja",
         "useractionRejectButtonText": "Nein",
 
+        "invalidUserErrorFeedback": "Die Eingaben sind ungültig.",
         "networkErrorFeedback": "Ein Netzwerkproblem ist aufgetreten.",
         "inputErrorFeedback": "Bitte überprüfen Sie Ihre Eingaben."
 
