@@ -25,9 +25,15 @@
         "useractionAcceptButtonText": "Ja",
         "useractionRejectButtonText": "Nein",
 
+        "confirmationpopupMessage": "Bitte bestätigen Sie mit Ihrem Geburtsdatum.",
+        "userconfirmationpopupButtonText": "Bestätigen",
+        
+
         "invalidUserErrorFeedback": "Die Eingaben sind ungültig.",
         "networkErrorFeedback": "Ein Netzwerkproblem ist aufgetreten.",
-        "inputErrorFeedback": "Bitte überprüfen Sie Ihre Eingaben."
-
+        "inputErrorFeedback": "Bitte überprüfen Sie Ihre Eingaben.",
+        "confirmationInputErrorFeedback": "Bitte überprüfen Sie ihre Angabe.",
+        "invalidTokenErrorFeedback": "Ihr Link ist ungültig.",
+        "expiredTokenErrorFeedback": "Ihr Link ist abgelaufen."
     }
 }
