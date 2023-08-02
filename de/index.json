@@ -20,13 +20,18 @@
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
 
-        "useractionLogoutTitle": "Achtung",
-        "useractionLogoutMessage": "Bitte bestätigen Sie den Logout. Der PIN wird dadurch von diesem Gerät gelöscht.",
-        "useractionAcceptButtonText": "Ja",
-        "useractionRejectButtonText": "Nein",
+        "modalCancelButtonText": "Abbrechen",
 
-        "confirmationpopupMessage": "Bitte bestätigen Sie mit Ihrem Geburtsdatum.",
-        "userconfirmationpopupButtonText": "Bestätigen",
+        "logoutmodalTitle": "Achtung!",
+        "logoutModalMessage": "Bitte bestätigen Sie den Logout.<br> Der Code wird dadurch unwiderruflich von diesem Gerät gelöscht.",
+        "acceptLogoutButtonText": "Löschen",
+
+        "invalidcodemodalTitle": "Achtung!",
+        "invalidcodemodalMessage": "Der Code dieses Benutzers ist ungültig! Mit diesem Code ist kein Login mehr möglich.<br> Wollen Sie diesen Code von ihrem Gerät löschen?",
+        "deleteInvalidCodeButtonText": "Löschen",
+
+        "codeverificationMessage": "Bitte bestätigen Sie mit Ihrem Geburtsdatum.",
+        "usercodeverificationButtonText": "Bestätigen",
         
 
         "invalidUserErrorFeedback": "Die Eingaben sind ungültig.",
