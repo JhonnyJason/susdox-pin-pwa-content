@@ -16,7 +16,8 @@
         "loginBirthdayLabel": "Geb. Datum",
         "loginCodeLabel": "Code",
         "showCodeButtonText": "Code anzeigen",
-        
+        "invalidCodeInfoText": "Dieser Code ist ungültig!",
+
         "menuAddCodeLabel": "Neuer Code",
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
