@@ -34,6 +34,7 @@
         "invalidcodemodalMessageTemplate": "Der Code von <b>{{{label}}}</b> ist ungültig!<br><br>Mit diesem Code ist kein Login mehr möglich.<br>Sie können diese Meldung ignorieren, den Code löschen oder ihn aktualisieren falls Sie bereits einen neuen Code erhalten haben.",
         "invalidcodemodalUpdateButtonText": "Aktualisieren",
         "deleteInvalidCodeButtonText": "Löschen",
+        "invalidcodemodalCancelButtonText": "Ignorieren",
 
 
         "codeverificationMessage": "Bitte bestätigen Sie mit Ihrem Geburtsdatum.",
