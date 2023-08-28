@@ -21,6 +21,7 @@
         "menuAddCodeLabel": "Neuer Code",
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
+        "unnamedText": "Unbenannt",
 
         "modalCancelButtonText": "Abbrechen",
 
@@ -36,11 +37,11 @@
         "deleteInvalidCodeButtonText": "Löschen",
         "invalidcodemodalCancelButtonText": "Ignorieren",
 
+        "usernamedisplayPlaceholderText": "Hier Name eingeben...",
 
         "codeverificationMessage": "Bitte bestätigen Sie mit Ihrem Geburtsdatum.",
         "usercodeverificationButtonText": "Bestätigen",
         
-
         "invalidUserErrorFeedback": "Die Eingaben sind ungültig.",
         "networkErrorFeedback": "Ein Netzwerkproblem ist aufgetreten.",
         "inputErrorFeedback": "Bitte überprüfen Sie Ihre Eingaben.",
