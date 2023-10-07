@@ -1,13 +1,12 @@
 {
     "languageTag": "de",
-    "pageTitle": "SusDoX PIN",
+    "pageTitle": "SusDoX",
     "pageLocale": "de_DE",
     "pageURL": "/",
     "pageDescription": "Dies ist die SusDoX WebApp um euren PIN Code zu speichern und bereit zu halten.",
     "pageImageURL": "https://pwa.bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-
     },
     "content": {
         "footerAddressLine": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
@@ -17,6 +16,7 @@
         "loginCodeLabel": "Code",
         "showCodeButtonText": "Code anzeigen",
         "invalidCodeInfoText": "Dieser Code ist ungültig!",
+        "centerbuttonText": "Meine Untersuchungen",
 
         "menuAddCodeLabel": "Neuer Code",
         "menuMoreInfoLabel": "Mehr Info",
