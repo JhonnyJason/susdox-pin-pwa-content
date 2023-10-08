@@ -18,6 +18,11 @@
         "invalidCodeInfoText": "Dieser Code ist ungültig!",
         "centerbuttonText": "Meine Untersuchungen",
 
+        "noScreeningsInfoText": "Es wurden keine Untersuchungen gefunden.",
+        "networkErrorScreeningsText": "<b>Es ist ein Netzwerkproblem aufgetreten!</b><br> Wir konnten keine Untersuchungen anfragen!",
+        "authErrorScreeningsText": "<b>Ihr Code ist ungültig!</b><br>Wir konnten keine Untersuchungen anfragen.",
+        "miscErrorScreeningsText": "<b>Es ist ein allgemeiner Fehler aufgetreten!</b><br> Wir konnten keine Untersuchungen anfragen!",
+
         "menuAddCodeLabel": "Neuer Code",
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
