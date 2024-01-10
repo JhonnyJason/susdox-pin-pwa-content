@@ -23,7 +23,7 @@
         "authErrorScreeningsText": "<b>Ihr Code ist ungültig!</b><br>Wir konnten keine Untersuchungen anfragen.",
         "miscErrorScreeningsText": "<b>Es ist ein allgemeiner Fehler aufgetreten!</b><br> Wir konnten keine Untersuchungen anfragen!",
 
-        "menuAddCodeLabel": "Neuer Code",
+        "menuAddCodeLabel": "Neue Person",
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
         "unnamedText": "Unbenannt",
