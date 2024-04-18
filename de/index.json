@@ -3,7 +3,7 @@
     "pageTitle": "SusDoX",
     "pageLocale": "de_DE",
     "pageURL": "/",
-    "pageDescription": "Dies ist die neue SusDoX APP um den Code zu speichern und Untersuchungen einzusehen.",
+    "pageDescription": "Dies ist die neue SusDoX APP um Euren Code zu speichern und Untersuchungen einzusehen.",
     "pageImageURL": "https://pwa.bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
@@ -27,6 +27,8 @@
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
         "unnamedText": "Unbenannt",
+        "menuPWAInstallLabel": "Als App installieren",
+        "menuPWAInstallSubtext": "Dies benötigt keinen zusätzlichen Speicherplatz.",
 
         "modalCancelButtonText": "Abbrechen",
 
@@ -41,6 +43,11 @@
         "invalidcodemodalUpdateButtonText": "Aktualisieren",
         "deleteInvalidCodeButtonText": "Löschen",
         "invalidcodemodalCancelButtonText": "Ignorieren",
+
+        "howtoIOSLine1": "Drücken sie den Icon",
+        "howtoIOSLine2": "Dann 'Zum Home-Bildschirm'",
+        "howtoIOSHint": "Hinweis: Sie müssen im Safari sein.",
+
 
         "usernamedisplayPlaceholderText": "Hier Name eingeben...",
 
