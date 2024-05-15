@@ -11,7 +11,7 @@
     "content": {
         "footerAddressLine": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
         "addCodeButtonText": "Neue Person",
-        "requestCodeButtonText": "Code anfordern",
+        "requestCodeButtonText": "Code anfordern?",
         "acceptButtonText": "Abschicken",
         "loginBirthdayLabel": "Geb. Datum",
         "loginCodeLabel": "Code",
