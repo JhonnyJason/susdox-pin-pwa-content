@@ -13,6 +13,7 @@
         "addCodeButtonText": "Neue Person",
         "requestCodeButtonText": "Code anfordern?",
         "acceptButtonText": "Abschicken",
+        "acceptButtonRequestText": "Anfordern",
         "loginBirthdayLabel": "Geb. Datum",
         "loginCodeLabel": "Code",
         "requestCodePhoneLabel": "Telefonnummer",
