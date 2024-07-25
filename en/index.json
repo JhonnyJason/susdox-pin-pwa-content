@@ -1,28 +1,66 @@
 {
     "languageTag": "en",
-    "pageTitle": "SusDoX PIN",
+    "pageTitle": "SusDoX",
     "pageLocale": "en_US",
-    "pageURL": "https://pwa.bilder-befunde.at/en",
-    "pageDescription": "This is the SusDoX WebApp to store and keep your PIN Code.",
+    "pageURL": "/",
+    "pageDescription": "This is the new SusDoX APP to store your code and view medical examinations.",
     "pageImageURL": "https://pwa.bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
-
     },
     "content": {
         "footerAddressLine": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
-        "addCodeButtonText": "Add Code",
-        "acceptButtonText": "Login",
-        "loginBirthdayLabel": "Date of Birth",
+        "addCodeButtonText": "New Person",
+        "requestCodeButtonText": "Request Code?",
+        "acceptButtonText": "Submit",
+        "acceptButtonRequestText": "Request",
+        "loginBirthdayLabel": "Birth Date",
         "loginCodeLabel": "Code",
+        "requestCodePhoneLabel": "Phone Number",
         "showCodeButtonText": "Show Code",
+        "invalidCodeInfoText": "This code is invalid!",
+        "centerbuttonText": "My Investigations",
 
+        "noScreeningsInfoText": "No medical examinations found.",
+        "networkErrorScreeningsText": "<b>A network error occurred!</b><br> We could not request the medical examinations!",
+        "authErrorScreeningsText": "<b>Your code is invalid!</b><br>We could not request the medical examinations.",
+        "miscErrorScreeningsText": "<b>A general error occurred!</b><br> We could not request the medical examinations!",
+
+        "menuAddCodeLabel": "New Person",
         "menuMoreInfoLabel": "More Info",
         "menuLogoutLabel": "Logout",
- 
-        "useractionLogoutTitle": "Attention",
-        "useractionLogoutMessage": "Please confirm your logout. The PIN will be deleted from this device.",
-        "useractionAcceptButtonText": "Yes",
-        "useractionRejectButtonText": "No"
-   }
+        "unnamedText": "Unnamed",
+        "menuPWAInstallLabel": "Install as App",
+        "menuPWAInstallSubtext": "This does not require additional storage space.",
+
+        "modalCancelButtonText": "Cancel",
+
+        "logoutmodalTitle": "Attention!",
+        "logoutmodalMessage": "Please confirm the logout.<br> The code will be irrevocably deleted from this device.",
+        "logoutmodalMessageTemplate": "Please confirm the logout of <b>{{{label}}}</b>.<br><br> The code will be irrevocably deleted from this device.",
+        "acceptLogoutButtonText": "Delete",
+
+        "invalidcodemodalTitle": "Attention!",
+        "invalidcodemodalMessage": "The code for this user is invalid! Login with this code is no longer possible.<br> Do you want to delete this code from your device?",
+        "invalidcodemodalMessageTemplate": "The code for <b>{{{label}}}</b> is invalid!<br><br>Login with this code is no longer possible.<br>You can ignore this message, delete the code, or update it if you already have a new code.",
+        "invalidcodemodalUpdateButtonText": "Update",
+        "deleteInvalidCodeButtonText": "Delete",
+        "invalidcodemodalCancelButtonText": "Ignore",
+
+        "howtoIOSLine1": "Press the icon",
+        "howtoIOSLine2": "Then 'Add to Home Screen'",
+        "howtoIOSHint": "Note: You need to be in Safari.",
+
+        "usernamedisplayPlaceholderText": "Enter name here...",
+
+        "codeverificationMessage": "Please confirm with your birth date.",
+        "usercodeverificationButtonText": "Confirm",
+        
+        "invalidUserErrorFeedback": "The inputs are invalid.",
+        "networkErrorFeedback": "A network error occurred.",
+        "inputErrorFeedback": "Please check your inputs.",
+        "confirmationInputErrorFeedback": "Please check your input.",
+        "invalidTokenErrorFeedback": "Your link is invalid.",
+        "expiredTokenErrorFeedback": "Your link has expired."
+    }
 }
