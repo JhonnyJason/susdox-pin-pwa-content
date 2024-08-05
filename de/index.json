@@ -27,7 +27,7 @@
         "miscErrorScreeningsText": "<b>Es ist ein allgemeiner Fehler aufgetreten!</b><br> Wir konnten keine Untersuchungen anfragen!",
 
         "menuAddCodeLabel": "Neue Person",
-        "menuShowQRLabel": "QrCode Anzeigen",
+        "menuShowQRLabel": "QR-Code zeigen",
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
         "unnamedText": "Unbenannt",
