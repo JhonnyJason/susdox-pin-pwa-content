@@ -28,6 +28,7 @@
 
         "menuAddCodeLabel": "Neue Person",
         "menuShowQRLabel": "QR-Code zeigen",
+        "menuHideQRLabel": "QR-Code ausblenden",
         "menuMoreInfoLabel": "Mehr Info",
         "menuLogoutLabel": "Abmelden",
         "unnamedText": "Unbenannt",
