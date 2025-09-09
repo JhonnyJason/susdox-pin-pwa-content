@@ -21,7 +21,7 @@
         "invalidCodeInfoText": "Dieser Code ist ungültig!",
         "centerbuttonText": "Meine Untersuchungen",
 
-        "reportButtonText": "Befund",
+        "reportButtonText": "Befunde",
         "imagesButtonText": "Bilder",
         "noScreeningsInfoText": "Es wurden keine Untersuchungen gefunden.",
         "networkErrorScreeningsText": "<b>Es ist ein Netzwerkproblem aufgetreten!</b><br> Wir konnten keine Untersuchungen anfragen!",
